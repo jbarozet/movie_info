@@ -1,0 +1,22 @@
+#--- IDE project files ------
+.vscode/
+*.code-workspace
+.zed
+#--- python -------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+__pycache__
+#--- venv ------------
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+#---Miscellaneous --------
+.DS_Store
+**/_archives
+crash.log
